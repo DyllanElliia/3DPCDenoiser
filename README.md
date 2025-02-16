@@ -23,15 +23,15 @@ The code has been tested in the following environment:
 Our default, provided install method is based on Conda package and environment management:
 
 ```bash
-conda env create -f env.yml
+conda env create -f env.yaml
 conda activate pcdenoise
 ```
 
 ## Datasets
 
-Download the dataset from this link: https://drive.google.com/drive/folders/1--MvLnP7dsBgBZiu46H0S32Y1eBa_j6P?usp=sharing
+Download our dataset from [this link](https://github.com/DyllanElliia/3DPCDenoiser?tab=readme-ov-file).
 
-Please extract data.zip to data folder.
+Please extract dataset.zip to data folder.
 
 ## Train
 
